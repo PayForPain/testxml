@@ -1,0 +1,140 @@
+<yml_catalog xmlns:sy="http://base.synthetic.ua/ns/1.0" date="2026-09-28 11:21">
+  <shop>
+    <name>Test XML</name>
+    <company>Test XML</company>
+    <url>https://github.com/PayForPain/testxml/</url>
+    <currencies>
+      <currency id="UAH" rate="1"/>
+    </currencies>
+    <categories>
+      <category id="934" parentId="908" sy_code="C320580">Ноутбуки</category>
+    </categories>
+    <offers>
+  <offer id="1" available="true">
+    <url/>
+    <price>8499</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>934</categoryId>
+    <picture>https://s-it.hmara.eu/price/Data/Inetshop/pictures/669af415-753f-11f1-b814-00155d64ca02.jpg</picture>
+    <picture>https://s-it.hmara.eu/price/Data/Inetshop/pictures/669af416-753f-11f1-b814-00155d64ca02.jpg</picture>
+    <picture>https://s-it.hmara.eu/price/Data/Inetshop/pictures/669af417-753f-11f1-b814-00155d64ca02.jpg</picture>
+    <picture>https://s-it.hmara.eu/price/Data/Inetshop/pictures/669af418-753f-11f1-b814-00155d64ca02.jpg</picture>
+    <picture>https://s-it.hmara.eu/price/Data/Inetshop/pictures/669af419-753f-11f1-b814-00155d64ca02.jpg</picture>
+    <vendor>Medion</vendor>
+    <sy_price_old/>
+    <sy_type>PTD-00103</sy_type>
+    <stock_quantity>1</stock_quantity>
+    <!--<name_ua>Ноутбук 14" Medion (Lenovo Group) E14410 | Intel Core i3-1005G1 | RAM DDR4 4 ГБ | SSD 128 ГБ | Intel Graphics | LTE | LAN (RJ-45) | HDMI + VGA | Win11 (5290)</name_ua>-->
+    <description_ua>
+      <![CDATA[ <p><strong><span style="font-size: medium;">Ноутбук 14" Medion E14410 / TN (1920x1080) FullHD / Grey / Intel Core i3-1005G1 (1.2 - 3.4 ГГц) / RAM 4 ГБ / SSD 128 ГБ / Intel UHD Graphics / USB 3.2 x 2 / USB 2.0 / HDMI / LAN (RJ-45) / Cardreader / VGA / 3.5 mm combo jack / LTE / 1.6 кг</span></strong></p>
+      <p><span style="font-size: medium;">Ми надаємо <strong>1 рік гарантії</strong> на цей товар.</span></p>
+      <p><span style="font-size: medium;"><strong>Medion AG - німецький</strong> бренд, з 2011 року є частиною корпорації <strong>Lenovo Group</strong> - найбільшого у світі постачальника ПК.</span></p>
+      <p><span style="font-size: medium;"><strong>НОВИЙ ноутбук</strong>,<strong> </strong>замінене упакування, можливі ледь помітні подряпинки чи потертості, які практично неможливо відобразити на фото, оскільки видно їх під певним кутом та освітленням. Ноутбук із закордонної дистрибуції, вітринні взірці.</span></p>
+      <p><span style="font-size: medium;"><strong>БЕЗКОШТОВНЕ</strong> лазерне гравіювання з українською розкладкою клавіатури.</span></p>
+      <p><span style="font-size: medium;">Ноутбук проходить ретельну перевірку та програму випробовувань, де кожен компонент перевіряється на відповідність до стану <strong>НОВОГО </strong>ноутбука.</span></p>
+      <p><span style="font-size: medium;">Встановлено <strong>Windows 11</strong>, драйвера та всі оновлення.</span></p>
+      <p><span style="font-size: medium;">Ноутбук упакований у спеціальнорозроблену коробку для безпечного транспортування разом із усіма необхідними аксесуарами. Вся інформація про продукт надрукована на видимій етикетці.</span></p>
+      <p><span style="font-size: medium;">Комплект поставки: ноутбук, зарядний пристрій, кабель живлення, гарантійний талон, картонна коробка.</span></p>
+      <p><span style="font-size: medium;"><strong>Medion</strong> — німецький бренд, відомий своєю надійною електронікою, що поєднує якість, доступність і функціональність. Як частина Lenovo Group, Medion втілює принципи німецької якості: увагу до деталей, суворий контроль виробництва і прагнення до довговічності. Бренд завоював довіру користувачів завдяки високим стандартам, які забезпечують стабільну продуктивність і витривалість техніки навіть при інтенсивному використанні. Виробництво, орієнтоване на практичність та інновації, робить Medion відмінним вибором для тих, хто цінує якість та надійність у сучасних технологіях.</span></p>
+      <p><strong><span style="font-size: medium;">Medion E14410 — компактний 14" ноутбук із LTE та широкими можливостями підключення</span></strong></p>
+      <p><span style="font-size: medium;">Medion E14410 — це практичний ноутбук для щоденних задач, який робить акцент на мобільності та підключенні. Модель оснащена процесором Intel Core i3, SSD-накопичувачем і, що особливо важливо, підтримкою LTE, що дозволяє залишатися онлайн практично будь-де без прив’язки до Wi-Fi.</span></p>
+      <p><span style="font-size: medium;"><strong>Процесор Intel Core i3 для повсякденної роботи</strong><br />Ноутбук оснащений <strong>Intel Core i3-1005G1</strong>, який працює на частоті до <strong>3.4 ГГц у Turbo Boost</strong>. Це енергоефективний процесор, що добре підходить для роботи з документами, браузером, навчання та виконання офісних задач.</span></p>
+      <p><span style="font-size: medium;"><strong>Інтегрована графіка для базових сценаріїв</strong><br /><strong>Intel UHD Graphics</strong> забезпечує стабільну роботу з мультимедіа, перегляд відео та виконання простих графічних задач без навантаження на систему.</span></p>
+      <p><span style="font-size: medium;"><strong>Компактний 14-дюймовий дисплей</strong><br />Ноутбук отримав <strong>14-дюймовий дисплей із роздільною здатністю FullHD (1920x1080)</strong>. TN-матриця забезпечує хорошу якість зображення та швидкий відгук, що є плюсом для роботи з документами, навчання та повсякденного використання.</span></p>
+      <p><span style="font-size: medium;"><strong>Базова конфігурація для щоденних задач</strong><br />Ноутбук оснащений:</span></p>
+      <p><span style="font-size: medium;">• <strong>4 ГБ оперативної пам’яті</strong> — для базових задач і роботи з простими програмами<br />• <strong>SSD 128 ГБ</strong> — швидке завантаження системи та програм</span></p>
+      <p><span style="font-size: medium;">Це оптимальна конфігурація для невибагливого користування.</span></p>
+      <p><span style="font-size: medium;"><strong>LTE — ключова особливість моделі</strong><br />Однією з головних фішок є <strong>підтримка LTE</strong>, що дозволяє використовувати мобільний інтернет без необхідності підключення до Wi-Fi. Це ідеальне рішення для роботи в дорозі, навчання або подорожей.</span></p>
+      <p><span style="font-size: medium;"><strong>Максимально широкий набір портів</strong><br />Medion E14410 отримав дуже різноманітний набір інтерфейсів:</span></p>
+      <p><span style="font-size: medium;">• <strong>USB 3.2 х2</strong> — швидка передача даних<br />• <strong>USB 2.0</strong> — для периферії<br />• <strong>HDMI</strong> — підключення сучасних дисплеїв<br />• <strong>VGA</strong> — підключення старих моніторів або проєкторів<br />• <strong>LAN (RJ-45)</strong> — стабільне дротове підключення до інтернету<br />• <strong>Card Reader</strong> — робота з картами пам’яті<br />• <strong>3.5 mm Combo Jack</strong> — для гарнітури</span></p>
+      <p><span style="font-size: medium;">Наявність <strong>VGA та LAN</strong> — рідкість у сучасних моделях і велика перевага для офісного або навчального використання.</span></p>
+      <p><span style="font-size: medium;"><strong>Мобільність і практичність</strong><br />Ноутбук виконаний у стриманому сірому корпусі та важить близько <strong>1.6 кг</strong>, що робить його зручним для щоденного перенесення.</span></p>
+      <p><span style="font-size: medium;"><strong>Medion E14410</strong> — це компактний ноутбук із підтримкою LTE, SSD-накопичувачем та широким набором портів. Він чудово підходить для роботи, навчання та використання в дорозі, де важлива автономність і постійний доступ до інтернету.</span></p>
+      <p><em><span style="font-size: medium;">Якщо Ви шукали ноутбук, з характеристиками, що відповідають Вашим вимогам та очікуванням, дана модель - саме те, що Вам потрібно.</span></em></p>
+      <p><em><span style="font-size: medium;">Обирайте ноутбук, який коштує своїх грошей, платячи за те, що є справедливим, без прикрас чи виворотів, які підвищують вартість.</span></em></p> ]]>
+    </description_ua>
+    <name>Ноутбук 14" Medion (Lenovo Group) E14410 | Intel Core i3-1005G1 | RAM DDR4 4 ГБ | SSD 128 ГБ | Intel Graphics | LTE | LAN (RJ-45) | HDMI + VGA | Win11 (5290)</name>
+    <description>
+      <![CDATA[ <p><strong><span style="font-size: medium;">Ноутбук 14" Medion E14410 / TN (1920x1080) FullHD / Grey / Intel Core i3-1005G1 (1.2 - 3.4 ГГц) / RAM 4 ГБ / SSD 128 ГБ / Intel UHD Graphics / USB 3.2 x 2 / USB 2.0 / HDMI / LAN (RJ-45) / Cardreader / VGA / 3.5 mm combo jack / LTE / 1.6 кг</span></strong></p>
+      <p><span style="font-size: medium;">Ми надаємо <strong>1 рік гарантії</strong> на цей товар.</span></p>
+      <p><span style="font-size: medium;"><strong>Medion AG - німецький</strong> бренд, з 2011 року є частиною корпорації <strong>Lenovo Group</strong> - найбільшого у світі постачальника ПК.</span></p>
+      <p><span style="font-size: medium;"><strong>НОВИЙ ноутбук</strong>,<strong> </strong>замінене упакування, можливі ледь помітні подряпинки чи потертості, які практично неможливо відобразити на фото, оскільки видно їх під певним кутом та освітленням. Ноутбук із закордонної дистрибуції, вітринні взірці.</span></p>
+      <p><span style="font-size: medium;"><strong>БЕЗКОШТОВНЕ</strong> лазерне гравіювання з українською розкладкою клавіатури.</span></p>
+      <p><span style="font-size: medium;">Ноутбук проходить ретельну перевірку та програму випробовувань, де кожен компонент перевіряється на відповідність до стану <strong>НОВОГО </strong>ноутбука.</span></p>
+      <p><span style="font-size: medium;">Встановлено <strong>Windows 11</strong>, драйвера та всі оновлення.</span></p>
+      <p><span style="font-size: medium;">Ноутбук упакований у спеціальнорозроблену коробку для безпечного транспортування разом із усіма необхідними аксесуарами. Вся інформація про продукт надрукована на видимій етикетці.</span></p>
+      <p><span style="font-size: medium;">Комплект поставки: ноутбук, зарядний пристрій, кабель живлення, гарантійний талон, картонна коробка.</span></p>
+      <p><span style="font-size: medium;"><strong>Medion</strong> — німецький бренд, відомий своєю надійною електронікою, що поєднує якість, доступність і функціональність. Як частина Lenovo Group, Medion втілює принципи німецької якості: увагу до деталей, суворий контроль виробництва і прагнення до довговічності. Бренд завоював довіру користувачів завдяки високим стандартам, які забезпечують стабільну продуктивність і витривалість техніки навіть при інтенсивному використанні. Виробництво, орієнтоване на практичність та інновації, робить Medion відмінним вибором для тих, хто цінує якість та надійність у сучасних технологіях.</span></p>
+      <p><strong><span style="font-size: medium;">Medion E14410 — компактний 14" ноутбук із LTE та широкими можливостями підключення</span></strong></p>
+      <p><span style="font-size: medium;">Medion E14410 — це практичний ноутбук для щоденних задач, який робить акцент на мобільності та підключенні. Модель оснащена процесором Intel Core i3, SSD-накопичувачем і, що особливо важливо, підтримкою LTE, що дозволяє залишатися онлайн практично будь-де без прив’язки до Wi-Fi.</span></p>
+      <p><span style="font-size: medium;"><strong>Процесор Intel Core i3 для повсякденної роботи</strong><br />Ноутбук оснащений <strong>Intel Core i3-1005G1</strong>, який працює на частоті до <strong>3.4 ГГц у Turbo Boost</strong>. Це енергоефективний процесор, що добре підходить для роботи з документами, браузером, навчання та виконання офісних задач.</span></p>
+      <p><span style="font-size: medium;"><strong>Інтегрована графіка для базових сценаріїв</strong><br /><strong>Intel UHD Graphics</strong> забезпечує стабільну роботу з мультимедіа, перегляд відео та виконання простих графічних задач без навантаження на систему.</span></p>
+      <p><span style="font-size: medium;"><strong>Компактний 14-дюймовий дисплей</strong><br />Ноутбук отримав <strong>14-дюймовий дисплей із роздільною здатністю FullHD (1920x1080)</strong>. TN-матриця забезпечує хорошу якість зображення та швидкий відгук, що є плюсом для роботи з документами, навчання та повсякденного використання.</span></p>
+      <p><span style="font-size: medium;"><strong>Базова конфігурація для щоденних задач</strong><br />Ноутбук оснащений:</span></p>
+      <p><span style="font-size: medium;">• <strong>4 ГБ оперативної пам’яті</strong> — для базових задач і роботи з простими програмами<br />• <strong>SSD 128 ГБ</strong> — швидке завантаження системи та програм</span></p>
+      <p><span style="font-size: medium;">Це оптимальна конфігурація для невибагливого користування.</span></p>
+      <p><span style="font-size: medium;"><strong>LTE — ключова особливість моделі</strong><br />Однією з головних фішок є <strong>підтримка LTE</strong>, що дозволяє використовувати мобільний інтернет без необхідності підключення до Wi-Fi. Це ідеальне рішення для роботи в дорозі, навчання або подорожей.</span></p>
+      <p><span style="font-size: medium;"><strong>Максимально широкий набір портів</strong><br />Medion E14410 отримав дуже різноманітний набір інтерфейсів:</span></p>
+      <p><span style="font-size: medium;">• <strong>USB 3.2 х2</strong> — швидка передача даних<br />• <strong>USB 2.0</strong> — для периферії<br />• <strong>HDMI</strong> — підключення сучасних дисплеїв<br />• <strong>VGA</strong> — підключення старих моніторів або проєкторів<br />• <strong>LAN (RJ-45)</strong> — стабільне дротове підключення до інтернету<br />• <strong>Card Reader</strong> — робота з картами пам’яті<br />• <strong>3.5 mm Combo Jack</strong> — для гарнітури</span></p>
+      <p><span style="font-size: medium;">Наявність <strong>VGA та LAN</strong> — рідкість у сучасних моделях і велика перевага для офісного або навчального використання.</span></p>
+      <p><span style="font-size: medium;"><strong>Мобільність і практичність</strong><br />Ноутбук виконаний у стриманому сірому корпусі та важить близько <strong>1.6 кг</strong>, що робить його зручним для щоденного перенесення.</span></p>
+      <p><span style="font-size: medium;"><strong>Medion E14410</strong> — це компактний ноутбук із підтримкою LTE, SSD-накопичувачем та широким набором портів. Він чудово підходить для роботи, навчання та використання в дорозі, де важлива автономність і постійний доступ до інтернету.</span></p>
+      <p><em><span style="font-size: medium;">Якщо Ви шукали ноутбук, з характеристиками, що відповідають Вашим вимогам та очікуванням, дана модель - саме те, що Вам потрібно.</span></em></p>
+      <p><em><span style="font-size: medium;">Обирайте ноутбук, який коштує своїх грошей, платячи за те, що є справедливим, без прикрас чи виворотів, які підвищують вартість.</span></em></p> ]]>
+    </description>
+    <param name="Вага" sy_attr_code="AND-00001">1,6</param>
+    <param name="Країна виробництва" sy_attr_code="AND-00084" sy_value_code="VLD-5097004">Німеччина</param>
+    <param name="Тип оперативної пам'яті" sy_attr_code="AND-00106" sy_value_code="VLD-22099">DDR4</param>
+    <param name="Формат роздільної здатності екрану" sy_attr_code="AND-03153" sy_value_code="VLD-64703">HD</param>
+    <param name="Покоління процесора Intel" sy_attr_code="AND-03236" sy_value_code="VLD-65508">10-е покоління</param>
+    <param name="Розкладка клавіатури" sy_attr_code="AND-03279" sy_value_code="VLD-24729">Українська</param>
+    <param name="Розкладка клавіатури" sy_attr_code="AND-03279" sy_value_code="VLD-27930">QWERTY</param>
+    <param name="Тип акумулятора" sy_attr_code="AND-03337" sy_value_code="VLD-5099828">Li-Polymer</param>
+    <param name="Сімейство процесора" sy_attr_code="AND-04437" sy_value_code="VLD-28252">Intel Core i3</param>
+    <param name="Виробник чіпа відеокарти" sy_attr_code="AND-04478" sy_value_code="VLD-28667">Intel</param>
+    <param name="Типи внутрішніх накопичувачів" sy_attr_code="AND-04482" sy_value_code="VLD-28673">SSD</param>
+    <param name="Поверхня екрану" sy_attr_code="AND-04524" sy_value_code="VLD-65070">Матова</param>
+    <param name="Тип відеокарти" sy_attr_code="AND-04544" sy_value_code="VLD-5099813">Інтегрована</param>
+    <param name="Ємність батареї" sy_attr_code="AND-04856">35</param>
+    <param name="Стандарт Wi-Fi" sy_attr_code="AND-05276" sy_value_code="VLD-64002">Wi-Fi 5 (802.11ac)</param>
+    <param name="Вид ноутбука" sy_attr_code="AND-424184" sy_value_code="VLD-64249">Ультрабук</param>
+    <param name="Вид ноутбука" sy_attr_code="AND-424184" sy_value_code="VLD-64251">Для роботи та навчання</param>
+    <param name="Особливості" sy_attr_code="AND-425490" sy_value_code="VLD-65186">Картрідер</param>
+    <param name="Особливості" sy_attr_code="AND-425490" sy_value_code="VLD-65187">Веб-камера</param>
+    <param name="Особливості" sy_attr_code="AND-425490" sy_value_code="VLD-65182">Вбудований мікрофон</param>
+    <param name="Особливості" sy_attr_code="AND-425490" sy_value_code="VLD-74317">4G LTE</param>
+    <param name="Кількість слотів оперативної пам'яті" sy_attr_code="AND-488231" sy_value_code="VLD-74787">1 слот</param>
+    <param name="Роздільна здатність екрану" sy_attr_code="AND-497019" sy_value_code="VLD-75469">1920 x 1080</param>
+    <param name="Процесор" sy_attr_code="AND-497020" sy_value_code="VLD-75660">Intel Core i3-1005G1</param>
+    <param name="Відеокарта" sy_attr_code="AND-497272" sy_value_code="VLD-75964">Intel UHD Graphics</param>
+    <param name="Частота оновлення екрану" sy_attr_code="AND-533593" sy_value_code="VLD-4962755">60</param>
+    <param name="Діагональ екрану" sy_attr_code="AND-533594" sy_value_code="VLD-4962767">14</param>
+    <param name="Тип матриці" sy_attr_code="AND-533595" sy_value_code="VLD-4962813">TN</param>
+    <param name="Місткість оперативної пам'яті" sy_attr_code="AND-533596" sy_value_code="VLD-4962858">4</param>
+    <param name="Встановлена ​​операційна система" sy_attr_code="AND-533597" sy_value_code="VLD-4962878">Windows 11</param>
+    <param name="Інтерфейси" sy_attr_code="AND-534196" sy_value_code="VLD-4998001">VGA</param>
+    <param name="Інтерфейси" sy_attr_code="AND-534196" sy_value_code="VLD-4997988">USB 2.0</param>
+    <param name="Інтерфейси" sy_attr_code="AND-534196" sy_value_code="VLD-4997987">RJ-45 (LAN)</param>
+    <param name="Інтерфейси" sy_attr_code="AND-534196" sy_value_code="VLD-4998019">Card Reader</param>
+    <param name="Інтерфейси" sy_attr_code="AND-534196" sy_value_code="VLD-5099821">Audio Jack</param>
+    <param name="Інтерфейси" sy_attr_code="AND-534196" sy_value_code="VLD-4998039">2 x USB 3.2</param>
+    <param name="Бездротові технології" sy_attr_code="AND-534260" sy_value_code="VLD-5002882">Wi-Fi</param>
+    <param name="Бездротові технології" sy_attr_code="AND-534260" sy_value_code="VLD-5002881">Bluetooth</param>
+    <param name="Бездротові технології" sy_attr_code="AND-534260" sy_value_code="VLD-5002883">4G LTE</param>
+    <param name="Матеріал корпусу" sy_attr_code="AND-534263" sy_value_code="VLD-5002929">Пластик</param>
+    <param name="Колір" sy_attr_code="AND-534264" sy_value_code="VLD-5003613">Сірий</param>
+    <param name="Частота процесора" sy_attr_code="AND-534277" sy_value_code="VLD-5004548">1.2 - 3.4 ГГц</param>
+    <param name="Кількість ядер процесора" sy_attr_code="AND-534868" sy_value_code="VLD-5031043">2</param>
+    <param name="Кількість потоків" sy_attr_code="AND-534869" sy_value_code="VLD-5031059">4</param>
+    <param name="Об'єм SSD" sy_attr_code="AND-534870" sy_value_code="VLD-5031075">128</param>
+    <param name="Кодова назва процесора" sy_attr_code="AND-535396" sy_value_code="VLD-5097125">Ice Lake-U</param>
+    <sy_warranty>12</sy_warranty>
+    <param name="Гарантія">12</param>
+    <state>discount</state>
+    <sy_offer_description_ua>
+      <![CDATA[ НОВИЙ ноутбук, замінене упакування, можливі ледь помітні подряпинки чи потертості, які практично неможливо відобразити на фото, оскільки видно їх під певним кутом та освітленням. Ноутбук із закордонної дистрибуції, вітринні взірці. ]]>
+    </sy_offer_description_ua>
+    <param name="sy_offer_description_ua">НОВИЙ ноутбук, замінене упакування, можливі ледь помітні подряпинки чи потертості, які практично неможливо відобразити на фото, оскільки видно їх під певним кутом та освітленням. Ноутбук із закордонної дистрибуції, вітринні взірці.</param>
+    </offer>
+  </shop>
+</yml_catalog>
