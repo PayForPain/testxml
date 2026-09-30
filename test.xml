@@ -10,7 +10,7 @@
       <category id="934" parentId="908" sy_code="C320580">Ноутбуки</category>
     </categories>
     <offers>
-  <offer id="1" available="">
+  <offer id="1" available="true">
     <url/>
     <price>8499</price>
     <currencyId>UAH</currencyId>
