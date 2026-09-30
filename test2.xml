@@ -4,7 +4,7 @@
     <company>Test XML</company>
     <url>https://github.com/PayForPain/testxml/</url>
     <currencies>
-      <currency id="UAH" <!--rate="1"-->/>
+      <currency id="UAH" <!--rate="1"-->/>1
     </currencies>
     <categories>
       <category id="934" parentId="908" sy_code="C320580">Ноутбуки</category>
