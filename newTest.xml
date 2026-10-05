@@ -4,128 +4,238 @@
         <name>Shop Name</name>
         <company>Shop Company Name</company>
         <url>https://github.com/PayForPain/testxml/</url>
+    
+        <!--All information about the Currencies-->
+        <currencies>
+          <currency id="UAH" rate="1"/>
+        </currencies>
+    
+        <!--All information about the Categories-->
+        <categories>
+          <category id="1" sy_code="C320580">Ноутбуки</category>
+          <category id="2" sy_code="C644049">Монітори</category>
+          <category id="3" sy_code="C441077">Планшети</category>
+        </categories>
+    
+        <!--All information about the Offers-->
+        <offers>
+        
+            <!--All offers for the Laptops-->
+            <offer id="1" available="false">
+                <name_ua>Ноутбук 18" MSI Titan 18 HX AI (A2XWJG-614US) Gaming | Intel Core Ultra 9 285HX | RAM 64GB | SSD 6TB | GeForce RTX 5090 | Win11 | Магнієво-алюмінієвий корпус | (UKR)</name_ua>
+                <name_ru>Ноутбук 18" MSI Titan 18 HX AI (A2XWJG-614US) Gaming | Intel Core Ultra 9 285HX | RAM 64GB | SSD 6TB | GeForce RTX 5090 | Win11 | Магниево-алюминиевый корпус | (UKR)</name_ru>
+                <vendor>MSI</vendor>
+                <vendorCode>A2XWJG-614US</vendorCode>
+                <url>https://ua.msi.com/Laptop/Titan-18-HX-AI-A2XWX/</url>
+                <price>264899</price>
+                <currencyId>UAH</currencyId>
+                <categoryId>1</categoryId>
+                <state>new</state>
+                <stock_quantity>1</stock_quantity>
+                <picture>https://s.ek.ua/jpg_zoom1/2858493.jpg</picture>
+                <picture>https://mzimg.com/big/q1/hz5cw3xiqq1.jpg</picture>
+                <picture>https://mzimg.com/big/t1/hz5cw3v99t1.jpg</picture>
+                <picture>https://mzimg.com/big/x1/hz5cw2zzvx1.jpg</picture>
+                <picture>https://mzimg.com/big/i1/hz5cw2zcvi1.jpg</picture>
+                <picture>https://mzimg.com/big/t1/hz5cw3k8ct1.jpg</picture>
+                <picture>https://mzimg.com/big/x1/hz5cw3ir5x1.jpg</picture>
+                <picture>https://mzimg.com/big/a1/hz5cw38jma1.jpg</picture>
+        
+                <!--Main codes related to Synthetic-->
+                <sy_type>PTD-00103</sy_type>
+                <sy_warranty>12</sy_warranty>
+
+                <!--Description in Ukrainian-->
+                <description_ua>
+                    <![CDATA[
+                        <p><strong>Головні характеристики</strong></p>
+                        <p>18" (3840x2400) Mini-LED, 120 Гц / Intel Core Ultra 9 285HX (2.1 - 5.5 ГГц) (24/24 ядра) / RAM 64 ГБ / SSD 6 ТБ / NVIDIA GeForce RTX 5090, 24 ГБ / Wi-Fi 7 / Bluetooth 5.4 / Механічна клавіатура Cherry MX, RGB-підсвічування тачпада, система охолодження з паровою камерою / Українська розкладка / Windows 11 / 3.6 кг</p>
+                        <p></p>
+                        <p><strong>Неперевершена продуктивність на базі AI</strong></p>
+                        <p>Ноутбук оснащений новітнім процесором Intel Core Ultra 9 285HX із 24 ядрами та дискретною відеокартою NVIDIA GeForce RTX 5090 із 24 ГБ пам'яті GDDR7, що забезпечує максимальну потужність десктопного рівня для найскладніших обчислювальних завдань, сучасних ігор та роботи зі штучним інтелектом. Сукупна продуктивність системи досягає 270 Вт завдяки передовій технології OverBoost Ultra.</p>
+                        <p></p>
+                        <p><strong>Дисплей професійного рівня та інноваційне охолодження</strong></p>
+                        <p>Великий 18-дюймовий Mini-LED екран з роздільною здатністю 4K (3840x2400) і частотою оновлення 120 Гц гарантує неперевершену деталізацію, яскравість до 1000 ніт і стовідсоткове охоплення колірного простору DCI-P3 з сертифікацією VESA DisplayHDR 1000. Ефективне відведення тепла забезпечує інноваційна система охолодження з випарною камерою та окремою тепловою трубкою для високошвидкісних накопичувачів PCIe Gen5.</p>
+                        <p></p>
+                        <p><strong>Унікальна ергономіка та сучасні інтерфейси</strong></p>
+                        <p>Модель обладнана низькопрофільною механічною клавіатурою Cherry MX із поклавишним RGB-підсвічуванням та першим у світі безшовним сенсорним тачпадом із підсвічуванням Mystic Light. Набір інтерфейсів включає новітні порти Thunderbolt 5 із пропускною здатністю до 120 Гбіт/с, HDMI 2.1, високошвидкісний мережевий адаптер 2.5G та модуль Wi-Fi 7 для стабільного підключення без затримок.</p>
+                    ]]>
+                </description_ua>
+        
+                <!--Description in Russian-->
+                <description_ru>
+                    <![CDATA[
+                        <p><strong>Главные характеристики</strong></p>
+                        <p>18" (3840x2400) Mini-LED, 120 Гц / Intel Core Ultra 9 285HX (2.1 - 5.5 ГГц) (24/24 ядра) / RAM 64 ГБ / SSD 6 ТБ / NVIDIA GeForce RTX 5090, 24 ГБ / Wi-Fi 7 / Bluetooth 5.4 / Механическая клавиатура Cherry MX, RGB-подсветка тачпада, система охлаждения с испарительной камерой / Украинская раскладка / Windows 11 / 3.6 кг</p>
+                        <p></p>
+                        <p><strong>Непревзойденная производительность на базе AI</strong></p>
+                        <p>Ноутбук оснащен новейшим процессором Intel Core Ultra 9 285HX с 24 ядрами и дискретной видеокартой NVIDIA GeForce RTX 5090 с 24 ГБ памяти GDDR7, обеспечивая максимальную мощность десктопного уровня для самых сложных задач, современных игр и работы с искусственным интеллектом. Совокупная производительность системы достигает 270 Вт благодаря передовой технологии OverBoost Ultra.</p>
+                        <p></p>
+                        <p><strong>Дисплей профессионального уровня и инновационное охлаждение</strong></p>
+                        <p>Большой 18-дюймовый Mini-LED экран с разрешением 4K (3840x2400) и частотой обновления 120 Гц гарантирует непревзойденную детализацию, яркость до 1000 нит и стопроцентный охват цветового пространства DCI-P3 с сертификацией VESA DisplayHDR 1000. Эффективный отвод тепла обеспечивается инновационной системой охлаждения с испарительной камерой и отдельной тепловой трубкой для высокоскоростных накопителей PCIe Gen5.</p>
+                        <p></p>
+                        <p><strong>Уникальная эргономика и современные интерфейсы</strong></p>
+                        <p>Модель оборудована низкопрофильной механической клавиатурой Cherry MX с поклавишной RGB-подсветкой и первым в мире бесшовным сенсорным тачпадом с подсветкой Mystic Light. Набор интерфейсов включает новейшие порты Thunderbolt 5 с пропускной способностью до 120 Гбит/с, HDMI 2.1, высокоскоростной сетевой адаптер 2.5G и модуль Wi-Fi 7 для стабильного подключения без задержек.</p>
+                    ]]>
+                </description_ru>
+
+                <!--All attributes for the Laptop-->
+                <param name="Вага" sy_attr_code="AND-00001">3.6</param>
+                <param name="Ємність акумулятора, мА·ч" sy_attr_code="AND-00007">6250</param>
+                <param name="Країна виробництва" sy_attr_code="AND-00084" sy_value_code="VLD-21991">Китай</param>
+                <param name="Тип оперативної пам'яті" sy_attr_code="AND-00106" sy_value_code="VLD-64021">DDR5</param>
+                <param name="Веб-камера" sy_attr_code="AND-03043" sy_value_code="VLD-153232">2.1</param>
+                <param name="Час роботи від акумулятора" sy_attr_code="AND-03062">4</param>
+                <param name="Габарити" sy_attr_code="AND-03072">404 x 308 x 32 мм</param>
+                <param name="Формат роздільної здатності екрану" sy_attr_code="AND-03153" sy_value_code="VLD-64701">4К</param>
+                <param name="Объем встроенной видеопамяти" sy_attr_code="AND-03196">24</param>
+                <param name="Покоління процесора Intel" sy_attr_code="AND-03236" sy_value_code="VLD-65507">2-е покоління</param>
+                <param name="Розкладка клавіатури" sy_attr_code="AND-03279" sy_value_code="VLD-24729">Українська</param>
+                <param name="Тип акумулятора" sy_attr_code="AND-03337" sy_value_code="VLD-24727">Li-Ion</param>
+                <param name="Підтримувані частоти пам'яті" sy_attr_code="AND-04185" sy_value_code="VLD-66004">6400 МГц</param>
+                <param name="Яскравість дисплея" sy_attr_code="AND-04214" sy_value_code="VLD-1259724">1000</param>
+                <param name="Сімейство процесора" sy_attr_code="AND-04437" sy_value_code="VLD-5454975">Intel Core Ultra 9</param>
+                <param name="Виробник чіпа відеокарти" sy_attr_code="AND-04478" sy_value_code="VLD-28668">NVIDIA</param>
+                <param name="Типи внутрішніх накопичувачів" sy_attr_code="AND-04482" sy_value_code="VLD-28673">SSD</param>
+                <param name="Поверхня екрану" sy_attr_code="AND-04524" sy_value_code="VLD-65070">Матова</param>
+                <param name="Тип відеокарти" sy_attr_code="AND-04544" sy_value_code="VLD-28678">Дискретна</param>
+                <param name="Ємність батареї" sy_attr_code="AND-04856">99,9 Вт·год</param>
+                <param name="Стандарт Wi-Fi" sy_attr_code="AND-05276" sy_value_code="VLD-76197">Wi-Fi 7 (802.11be)</param>
+                <param name="Версія Bluetooth" sy_attr_code="AND-396853" sy_value_code="VLD-77834">5.4</param>
+                <param name="Вид ноутбука" sy_attr_code="AND-424184" sy_value_code="VLD-64251">Для роботи та навчання</param>
+                <param name="Особливості" sy_attr_code="AND-425490" sy_value_code="VLD-65188">Підсвічування клавіш</param>
+                <param name="Особливості" sy_attr_code="AND-425490" sy_value_code="VLD-65196">Металічний корпус</param>
+                <param name="Особливості" sy_attr_code="AND-425490" sy_value_code="VLD-65201">Тонкий корпус</param>
+                <param name="Особливості" sy_attr_code="AND-425490" sy_value_code="VLD-5460010">Заряджання від USB</param>
+                <param name="Особливості" sy_attr_code="AND-425490" sy_value_code="VLD-69049">Захисна шторка для камери</param>
+                <param name="Кількість слотів оперативної пам'яті" sy_attr_code="AND-488231" sy_value_code="VLD-74788">4 слоти</param>
+                <param name="Роздільна здатність екрану" sy_attr_code="AND-497019" sy_value_code="VLD-75499">3840 x 2400</param>
+                <param name="Процесор" sy_attr_code="AND-497020" sy_value_code="VLD-5461273">Intel Core Ultra 9 285HX</param>
+                <param name="Відеокарта" sy_attr_code="AND-497272" sy_value_code="VLD-5499674">NVIDIA GeForce RTX 5090</param>
+                <param name="Частота оновлення екрану" sy_attr_code="AND-533593" sy_value_code="VLD-4962757">120</param>
+                <param name="Діагональ екрану" sy_attr_code="AND-533594" sy_value_code="VLD-4962808">18</param>
+                <param name="Тип матриці" sy_attr_code="AND-533595" sy_value_code="VLD-4962812">IPS</param>
+                <param name="Місткість оперативної пам'яті" sy_attr_code="AND-533596" sy_value_code="VLD-4962863">64</param>
+                <param name="Встановлена ​​операційна система" sy_attr_code="AND-533597" sy_value_code="VLD-4962878">Windows 11</param>
+                <param name="Інтерфейси" sy_attr_code="AND-534196" sy_value_code="VLD-4998057">2 x Thunderbolt</param>
+                <param name="Інтерфейси" sy_attr_code="AND-534196" sy_value_code="VLD-4998044">2 x USB 3.2 Gen 2 Type-A</param>
+                <param name="Інтерфейси" sy_attr_code="AND-534196" sy_value_code="VLD-5578587">1 x HDMI 2.1</param>
+                <param name="Інтерфейси" sy_attr_code="AND-534196" sy_value_code="VLD-4998022">1 x RJ-45</param>
+                <param name="Інтерфейси" sy_attr_code="AND-534196" sy_value_code="VLD-4998019">Card Reader</param>
+                <param name="Інтерфейси" sy_attr_code="AND-534196" sy_value_code="VLD-4997986">3.5 mm Mini-Jack</param>
+                <param name="Бездротові технології" sy_attr_code="AND-534260" sy_value_code="VLD-5002881">Bluetooth</param>
+                <param name="Бездротові технології" sy_attr_code="AND-534260" sy_value_code="VLD-5002882">Wi-Fi</param>
+                <param name="Матеріал корпусу" sy_attr_code="AND-534263" sy_value_code="VLD-5435265">Магнієво-алюмінієвий сплав</param>
+                <param name="Колір" sy_attr_code="AND-534264" sy_value_code="VLD-5003615">Чорний</param>
+                <param name="Частота процесора" sy_attr_code="AND-534277" sy_value_code="VLD-5319563">2.1 - 5.5 Ггц</param>
+                <param name="Кількість ядер процесора" sy_attr_code="AND-534868" sy_value_code="VLD-5031056">24</param>
+                <param name="Кількість потоків" sy_attr_code="AND-534869" sy_value_code="VLD-5031068">24</param>
+                <param name="Об'єм SSD" sy_attr_code="AND-534870">6000</param>
+                <param name="Кодова назва процесора" sy_attr_code="AND-535396">Arrow Lake-HX</param>
+            </offer>
+
+            <!--All offers for the Tablets-->
+            <offer id="2" available="false">
+                <name_ua>Планшет 12" Dell Pro Rugged RA02260 | RAM 32GB | SSD 512GB | Wi-Fi | 8 ядер | Windows 11 Pro | 35.6 Wh | Чорний | (210-BSXC_U532512WP)</name_ua>
+                <name_ru>Планшет 12" Dell Pro Rugged RA02260 | RAM 32GB | SSD 512GB | Wi-Fi | 8 ядер | Windows 11 Pro | 35.6 Wh | Черный | (210-BSXC_U532512WP)</name_ru>
+                <vendor>Dell</vendor>
+                <vendorCode>210-BSXC_U532512WP</vendorCode>
+                <url>https://hotline.ua/ua/computer-planshety/dell-pro-rugged-12-32512gb-wi-fi-black-210-bsxcu532512wp</url>
+                <price>216783</price>
+                <currencyId>UAH</currencyId>
+                <categoryId>3</categoryId>
+                <state>new</state>
+                <stock_quantity>1</stock_quantity>
+                <picture>https://i.dell.com/assetlink/img/en/tablet-dell-pro-rugged-ra02260-bk-gallery-1-dl1frq4-large.png</picture>
+                <picture>https://i.dell.com/is/image/DellContent//content/dam/ss2/product-images/dell-client-products/tablets/dell-pro-rugged-tablet/ra02260/mg/tablet-dell-pro-rugged-ra02260-bk-gallery-2.psd</picture>
+                <picture>https://i.dell.com/is/image/DellContent//content/dam/ss2/product-images/dell-client-products/tablets/dell-pro-rugged-tablet/ra02260/mg/tablet-dell-pro-rugged-ra02260-bk-gallery-3.psd</picture>
+                <picture>https://i.dell.com/is/image/DellContent//content/dam/ss2/product-images/dell-client-products/tablets/dell-pro-rugged-tablet/ra02260/mg/tablet-dell-pro-rugged-ra02260-bk-gallery-4.psd</picture>
+                <picture>https://i.dell.com/is/image/DellContent//content/dam/ss2/product-images/dell-client-products/tablets/dell-pro-rugged-tablet/ra02260/mg/tablet-dell-pro-rugged-ra02260-bk-gallery-5.psd</picture>
+                <picture>https://i.dell.com/is/image/DellContent//content/dam/ss2/product-images/dell-client-products/tablets/dell-pro-rugged-tablet/ra02260/mg/tablet-dell-pro-rugged-ra02260-bk-gallery-6.psd</picture>
+                <picture>https://i.dell.com/is/image/DellContent//content/dam/ss2/product-images/dell-client-products/tablets/dell-pro-rugged-tablet/ra02260/mg/tablet-dell-pro-rugged-ra02260-bk-gallery-7.psd</picture>
+
+                <!--Main codes related to Synthetic-->
+                <sy_type>PTD-00192</sy_type>
+                <sy_warranty>12</sy_warranty>
+
+                <!--Description in Ukrainian-->
+                <description_ua>
+                    <![CDATA[
+                        <p><strong>Надійність професійного рівня</strong></p>
+                        <p>Захищений планшет Dell Pro Rugged 12 створений для роботи в найсуворіших та екстремальних умовах польового середовища, виробництва чи екстрених служб. Міцний корпус із сертифікацією IP66 та військовими стандартами міцності надійно захищає пристрій від ударів, падінь, пилу та потужних струменів води.</p>
+                        <p></p>
+                        <p><strong>Передова продуктивність</strong></p>
+                        <p>Модель оснащена потужним процесором Intel Core Ultra зі штучним інтелектом, а також вражаючим об'ємом оперативної (32 ГБ) та вбудованої (512 ГБ) пам'яті. Це забезпечує максимальну швидкодію в професійних ресурсомістких додатках та багатозадачному режимі на базі операційної системи Windows 11 Pro.</p>
+                        <p></p>
+                        <p><strong>Яскравий дисплей та автономність</strong></p>
+                        <p>Яскравий 12-дюймовий сенсорний екран із роздільною здатністю Full HD+ та підтримкою роботи в рукавичках гарантує чудову читабельність навіть під прямими сонячними променями. Підтримка технології гарячої заміни акумуляторів та сучасні інтерфейси підключення, зокрема Wi-Fi 7 і Thunderbolt 4, забезпечують безперервну продуктивність за будь-яких умов.</p>
+                    ]]>
+                </description_ua>
+        
+                <!--Description in Russian-->
+                <description_ru>
+                    <![CDATA[
+                        <p><strong>Надежность профессионального уровня</strong></p>
+                        <p>Защищенный планшет Dell Pro Rugged 12 создан для работы в самых суровых и экстремальных условиях полевой среды, производства или экстренных служб. Прочный корпус с сертификацией IP66 и военными стандартами прочности надежно защищает устройство от ударов, падений, пыли и мощных струй воды.</p>
+                        <p></p>
+                        <p><strong>Передовая производительность</strong></p>
+                        <p>Модель оснащена мощным процессором Intel Core Ultra с искусственным интеллектом, а также внушительным объемом оперативной (32 ГБ) и встроенной (512 ГБ) памяти. Это обеспечивает максимальное быстродействие в профессиональных ресурсоемких приложениях и многозадачном режиме на базе операционной системы Windows 11 Pro.</p>
+                        <p></p>
+                        <p><strong>Яркий дисплей и автономность</strong></p>
+                        <p>Яркий 12-дюймовый сенсорный экран с разрешением Full HD+ и поддержкой работы в перчатках гарантирует отличную читаемость даже под прямыми солнечными лучами. Поддержка технологии горячей замены аккумуляторов и современные интерфейсы подключения, включая Wi-Fi 7 и Thunderbolt 4, обеспечивают непрерывную продуктивность в любых условиях.</p>
+                    ]]>
+                </description_ru>
+
+                <!--All attributes for the Laptop-->
+                <param name="Вага" sy_attr_code="AND-00001">1.31</param>
+                <param name="Ємність акумулятора, мА·ч" sy_attr_code="AND-00007">4457</param>
+                <param name="Сумісні карти пам'яті" sy_attr_code="AND-00011" sy_value_code="VLD-24687">microSD</param>
+                <param name="Країна виробництва" sy_attr_code="AND-00084" sy_value_code="VLD-21991">Китай</param>
+                <param name="Навігація" sy_attr_code="AND-00086" sy_value_code="VLD-21994">GPS</param>
+                <param name="Розміри" sy_attr_code="AND-00087">301 х 208 х 29.6 мм</param>
+                <param name="Комплектація" sy_attr_code="AND-00103">Планшет, документація</param>
+                <param name="Формат роздільної здатності екрану" sy_attr_code="AND-03153" sy_value_code="VLD-64699">Full HD</param>
+                <param name="Кількість ядер процесора" sy_attr_code="AND-04164" sy_value_code="VLD-28470">8</param>
+                <param name="Максимальна частота оновлення" sy_attr_code="AND-04232" sy_value_code="VLD-79450">60</param>
+                <param name="Тип" sy_attr_code="AND-05103" sy_value_code="VLD-77387">Захищений планшет</param>
+                <param name="Тип" sy_attr_code="AND-05103" sy_value_code="VLD-33513">Планшети на Windows</param>
+                <param name="Тип" sy_attr_code="AND-05103" sy_value_code="VLD-33512">Продуктивні</param>
+                <param name="Стандарт Bluetooth" sy_attr_code="AND-05643" sy_value_code="VLD-77833">5.4</param>
+                <param name="Функції та можливості" sy_attr_code="AND-425517" sy_value_code="VLD-65280">Стереодинаміки</param>
+                <param name="Функції та можливості" sy_attr_code="AND-425517" sy_value_code="VLD-5480413">IP66</param>
+                <param name="Функції та можливості" sy_attr_code="AND-425517" sy_value_code="VLD-73834">Захист від ударів</param>
+                <param name="Функції та можливості" sy_attr_code="AND-425517" sy_value_code="VLD-73832">Пилозахист</param>
+                <param name="Функції та можливості" sy_attr_code="AND-425517" sy_value_code="VLD-73833">Вологозахист</param>
+                <param name="Функції та можливості" sy_attr_code="AND-425517" sy_value_code="VLD-70755">Мультитач екран</param>
+                <param name="Функції та можливості" sy_attr_code="AND-425517" sy_value_code="VLD-65289">Сканер відбитка пальця</param>
+                <param name="Функції та можливості" sy_attr_code="AND-425517" sy_value_code="VLD-5480411">MIL-STD-810H</param>
+                <param name="Тип матриці" sy_attr_code="AND-533515" sy_value_code="VLD-4948145">WVA</param>
+                <param name="Процесор" sy_attr_code="AND-533516">Intel Core Ultra 5 236V</param>
+                <param name="Основна камера" sy_attr_code="AND-533525">11 Мп</param>
+                <param name="Фронтальная камера" sy_attr_code="AND-533526" sy_value_code="VLD-4949208">8 Мп</param>
+                <param name="Встановлена операційна система" sy_attr_code="AND-533527" sy_value_code="VLD-4950018">Windows 11 Pro</param>
+                <param name="Діагональ екрану" sy_attr_code="AND-533528" sy_value_code="VLD-4950154">12</param>
+                <param name="Оперативна пам'ять" sy_attr_code="AND-533529" sy_value_code="VLD-4950403">32</param>
+                <param name="Вбудована пам'ять" sy_attr_code="AND-533530" sy_value_code="VLD-4957527">512</param>
+                <param name="Роздільна здатність екрану" sy_attr_code="AND-533619" sy_value_code="VLD-4963934">1920 x 1200</param>
+                <param name="PPI (Щільність пікселів)" sy_attr_code="AND-533620" sy_value_code="VLD-4963993">188</param>
+                <param name="Частота процесора" sy_attr_code="AND-533621">2.1</param>
+                <param name="Матеріал корпусу" sy_attr_code="AND-533841" sy_value_code="VLD-5077043">Металл + Поликарбонат</param>
+                <param name="Колір передньої панелі" sy_attr_code="AND-533881" sy_value_code="VLD-4979453">Чорний</param>
+                <param name="Колір задньої панелі" sy_attr_code="AND-533885" sy_value_code="VLD-4980590">Чорний</param>
+                <param name="Вбудовані датчики" sy_attr_code="AND-533910" sy_value_code="VLD-4981670">Цифровий компас</param>
+                <param name="Вбудовані датчики" sy_attr_code="AND-533910" sy_value_code="VLD-4981667">Акселерометр</param>
+                <param name="Вбудовані датчики" sy_attr_code="AND-533910" sy_value_code="VLD-4981665">Гіроскоп</param>
+                <param name="Вбудовані датчики" sy_attr_code="AND-533910" sy_value_code="VLD-4981664">Датчик освітлення</param>
+                <param name="Бездротові підключення" sy_attr_code="AND-533915" sy_value_code="VLD-4983468">Wi-Fi</param>
+                <param name="Бездротові підключення" sy_attr_code="AND-533915" sy_value_code="VLD-4983469">Bluetooth</param>
+                <param name="Інтерфейси та підключення" sy_attr_code="AND-533916" sy_value_code="VLD-4983508">Thunderbolt</param>
+                <param name="Інтерфейси та підключення" sy_attr_code="AND-533916" sy_value_code="VLD-4983487">USB Type-C</param>
+                <param name="Інтерфейси та підключення" sy_attr_code="AND-533916" sy_value_code="VLD-4983505">USB Type-A</param>
+                <param name="Інтерфейси та підключення" sy_attr_code="AND-533916" sy_value_code="VLD-5008962">microSD</param>
+                <param name="Інтерфейси та підключення" sy_attr_code="AND-533916" sy_value_code="VLD-5099927">Audio Jack 3.5 mm</param>
+                <param name="Виробник процесора" sy_attr_code="AND-535617" sy_value_code="VLD-5251669">Intel</param>
+            </offer>
+        </offers>
     </shop>
-    
-    <!--All information about the Currencies-->
-    <currencies>
-      <currency id="UAH" rate="1"/>
-    </currencies>
-    
-    <!--All information about the Categories-->
-    <categories>
-      <category id="1" sy_code="C320580">Ноутбуки</category>
-      <category id="2" sy_code="C644049">Монітори</category>
-      <category id="3" sy_code="C441077">Планшети</category>
-    </categories>
-    
-    <!--All information about the Offers-->
-    <offers>
-        
-        <!--All offers for the Laptops-->
-        <offer id="1" available="false">
-            <name_ua>Ноутбук 18" MSI Titan 18 HX AI (A2XWJG-614US) Gaming | Intel Core Ultra 9 285HX | RAM 64GB | SSD 6TB | GeForce RTX 5090 | Win11 | Магнієво-алюмінієвий корпус | (UKR)</name_ua>
-            <name_ru>Ноутбук 18" MSI Titan 18 HX AI (A2XWJG-614US) Gaming | Intel Core Ultra 9 285HX | RAM 64GB | SSD 6TB | GeForce RTX 5090 | Win11 | Магниево-алюминиевый корпус | (UKR)</name_ru>
-            <vendor>MSI</vendor>
-            <vendorCode>A2XWJG-614US</vendorCode>
-            <url>https://ua.msi.com/Laptop/Titan-18-HX-AI-A2XWX/</url>
-            <price>264899</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>1</categoryId>
-            <state>new</state>
-            <stock_quantity>1</stock_quantity>
-            <picture>https://hotline.ua/img/tx/584/5846683195.jpg</picture>
-        
-            <!--Main codes related to Synthetic-->
-            <sy_type>PTD-00103</sy_type>
-            <sy_warranty>12</sy_warranty>
-
-            <!--Description in Ukrainian-->
-            <description_ua>
-                <![CDATA[
-                    <p><strong>Головні характеристики</strong></p>
-                    <p>18" (3840x2400) Mini-LED, 120 Гц / Intel Core Ultra 9 285HX (2.1 - 5.5 ГГц) (24/24 ядра) / RAM 64 ГБ / SSD 6 ТБ / NVIDIA GeForce RTX 5090, 24 ГБ / Wi-Fi 7 / Bluetooth 5.4 / Механічна клавіатура Cherry MX, RGB-підсвічування тачпада, система охолодження з паровою камерою / Українська розкладка / Windows 11 / 3.6 кг</p>
-                    <p></p>
-                    <p><strong>Неперевершена продуктивність на базі AI</strong></p>
-                    <p>Ноутбук оснащений новітнім процесором Intel Core Ultra 9 285HX із 24 ядрами та дискретною відеокартою NVIDIA GeForce RTX 5090 із 24 ГБ пам'яті GDDR7, що забезпечує максимальну потужність десктопного рівня для найскладніших обчислювальних завдань, сучасних ігор та роботи зі штучним інтелектом. Сукупна продуктивність системи досягає 270 Вт завдяки передовій технології OverBoost Ultra.</p>
-                    <p></p>
-                    <p><strong>Дисплей професійного рівня та інноваційне охолодження</strong></p>
-                    <p>Великий 18-дюймовий Mini-LED екран з роздільною здатністю 4K (3840x2400) і частотою оновлення 120 Гц гарантує неперевершену деталізацію, яскравість до 1000 ніт і стовідсоткове охоплення колірного простору DCI-P3 з сертифікацією VESA DisplayHDR 1000. Ефективне відведення тепла забезпечує інноваційна система охолодження з випарною камерою та окремою тепловою трубкою для високошвидкісних накопичувачів PCIe Gen5.</p>
-                    <p></p>
-                    <p><strong>Унікальна ергономіка та сучасні інтерфейси</strong></p>
-                    <p>Модель обладнана низькопрофільною механічною клавіатурою Cherry MX із поклавишним RGB-підсвічуванням та першим у світі безшовним сенсорним тачпадом із підсвічуванням Mystic Light. Набір інтерфейсів включає новітні порти Thunderbolt 5 із пропускною здатністю до 120 Гбіт/с, HDMI 2.1, високошвидкісний мережевий адаптер 2.5G та модуль Wi-Fi 7 для стабільного підключення без затримок.</p>
-                ]]>
-            </description_ua>
-        
-            <!--Description in Russian-->
-            <description_ru>
-                <![CDATA[
-                    <p><strong>Главные характеристики</strong></p>
-                    <p>18" (3840x2400) Mini-LED, 120 Гц / Intel Core Ultra 9 285HX (2.1 - 5.5 ГГц) (24/24 ядра) / RAM 64 ГБ / SSD 6 ТБ / NVIDIA GeForce RTX 5090, 24 ГБ / Wi-Fi 7 / Bluetooth 5.4 / Механическая клавиатура Cherry MX, RGB-подсветка тачпада, система охлаждения с испарительной камерой / Украинская раскладка / Windows 11 / 3.6 кг</p>
-                    <p></p>
-                    <p><strong>Непревзойденная производительность на базе AI</strong></p>
-                    <p>Ноутбук оснащен новейшим процессором Intel Core Ultra 9 285HX с 24 ядрами и дискретной видеокартой NVIDIA GeForce RTX 5090 с 24 ГБ памяти GDDR7, обеспечивая максимальную мощность десктопного уровня для самых сложных задач, современных игр и работы с искусственным интеллектом. Совокупная производительность системы достигает 270 Вт благодаря передовой технологии OverBoost Ultra.</p>
-                    <p></p>
-                    <p><strong>Дисплей профессионального уровня и инновационное охлаждение</strong></p>
-                    <p>Большой 18-дюймовый Mini-LED экран с разрешением 4K (3840x2400) и частотой обновления 120 Гц гарантирует непревзойденную детализацию, яркость до 1000 нит и стопроцентный охват цветового пространства DCI-P3 с сертификацией VESA DisplayHDR 1000. Эффективный отвод тепла обеспечивается инновационной системой охлаждения с испарительной камерой и отдельной тепловой трубкой для высокоскоростных накопителей PCIe Gen5.</p>
-                    <p></p>
-                    <p><strong>Уникальная эргономика и современные интерфейсы</strong></p>
-                    <p>Модель оборудована низкопрофильной механической клавиатурой Cherry MX с поклавишной RGB-подсветкой и первым в мире бесшовным сенсорным тачпадом с подсветкой Mystic Light. Набор интерфейсов включает новейшие порты Thunderbolt 5 с пропускной способностью до 120 Гбит/с, HDMI 2.1, высокоскоростной сетевой адаптер 2.5G и модуль Wi-Fi 7 для стабильного подключения без задержек.</p>
-                ]]>
-            </description_ru>
-
-            <!--All attributes for the Laptop-->
-            <param name="Вага" sy_attr_code="AND-00001">3.6</param>
-            <param name="Ємність акумулятора, мА·ч" sy_attr_code="AND-00007">6250</param>
-            <param name="Країна виробництва" sy_attr_code="AND-00084" sy_value_code="VLD-21991">Китай</param>
-            <param name="Тип оперативної пам'яті" sy_attr_code="AND-00106" sy_value_code="VLD-64021">DDR5</param>
-            <param name="Веб-камера" sy_attr_code="AND-03043" sy_value_code="VLD-153232">2.1</param>
-            <param name="Час роботи від акумулятора" sy_attr_code="AND-03062">4</param>
-            <param name="Габарити" sy_attr_code="AND-03072">404 x 308 x 32 мм</param>
-            <param name="Формат роздільної здатності екрану" sy_attr_code="AND-03153" sy_value_code="VLD-64701">4К</param>
-            <param name="Объем встроенной видеопамяти" sy_attr_code="AND-03196">24</param>
-            <param name="Покоління процесора Intel" sy_attr_code="AND-03236" sy_value_code="VLD-65507">2-е покоління</param>
-            <param name="Розкладка клавіатури" sy_attr_code="AND-03279" sy_value_code="VLD-24729">Українська</param>
-            <param name="Тип акумулятора" sy_attr_code="AND-03337" sy_value_code="VLD-24727">Li-Ion</param>
-            <param name="Підтримувані частоти пам'яті" sy_attr_code="AND-04185" sy_value_code="VLD-66004">6400 МГц</param>
-            <param name="Яскравість дисплея" sy_attr_code="AND-04214" sy_value_code="VLD-1259724">1000</param>
-            <param name="Сімейство процесора" sy_attr_code="AND-04437" sy_value_code="VLD-5454975">Intel Core Ultra 9</param>
-            <param name="Виробник чіпа відеокарти" sy_attr_code="AND-04478" sy_value_code="VLD-28668">NVIDIA</param>
-            <param name="Типи внутрішніх накопичувачів" sy_attr_code="AND-04482" sy_value_code="VLD-28673">SSD</param>
-            <param name="Поверхня екрану" sy_attr_code="AND-04524" sy_value_code="VLD-65070">Матова</param>
-            <param name="Тип відеокарти" sy_attr_code="AND-04544" sy_value_code="VLD-28678">Дискретна</param>
-            <param name="Ємність батареї" sy_attr_code="AND-04856">99,9 Вт·год</param>
-            <param name="Стандарт Wi-Fi" sy_attr_code="AND-05276" sy_value_code="VLD-76197">Wi-Fi 7 (802.11be)</param>
-            <param name="Версія Bluetooth" sy_attr_code="AND-396853" sy_value_code="VLD-77834">5.4</param>
-            <param name="Вид ноутбука" sy_attr_code="AND-424184" sy_value_code="VLD-64251">Для роботи та навчання</param>
-            <param name="Особливості" sy_attr_code="AND-425490" sy_value_code="VLD-65188">Підсвічування клавіш</param>
-            <param name="Особливості" sy_attr_code="AND-425490" sy_value_code="VLD-65196">Металічний корпус</param>
-            <param name="Особливості" sy_attr_code="AND-425490" sy_value_code="VLD-65201">Тонкий корпус</param>
-            <param name="Особливості" sy_attr_code="AND-425490" sy_value_code="VLD-5460010">Заряджання від USB</param>
-            <param name="Особливості" sy_attr_code="AND-425490" sy_value_code="VLD-69049">Захисна шторка для камери</param>
-            <param name="Кількість слотів оперативної пам'яті" sy_attr_code="AND-488231" sy_value_code="VLD-74788">4 слоти</param>
-            <param name="Роздільна здатність екрану" sy_attr_code="AND-497019" sy_value_code="VLD-75499">3840 x 2400</param>
-            <param name="Процесор" sy_attr_code="AND-497020" sy_value_code="VLD-5461273">Intel Core Ultra 9 285HX</param>
-            <param name="Відеокарта" sy_attr_code="AND-497272" sy_value_code="VLD-5499674">NVIDIA GeForce RTX 5090</param>
-            <param name="Частота оновлення екрану" sy_attr_code="AND-533593" sy_value_code="VLD-4962757">120</param>
-            <param name="Діагональ екрану" sy_attr_code="AND-533594" sy_value_code="VLD-4962808">18</param>
-            <param name="Тип матриці" sy_attr_code="AND-533595" sy_value_code="VLD-4962812">IPS</param>
-            <param name="Місткість оперативної пам'яті" sy_attr_code="AND-533596" sy_value_code="VLD-4962863">64</param>
-            <param name="Встановлена ​​операційна система" sy_attr_code="AND-533597" sy_value_code="VLD-4962878">Windows 11</param>
-            <param name="Інтерфейси" sy_attr_code="AND-534196" sy_value_code="VLD-4998057">2 x Thunderbolt</param>
-            <param name="Інтерфейси" sy_attr_code="AND-534196" sy_value_code="VLD-4998044">2 x USB 3.2 Gen 2 Type-A</param>
-            <param name="Інтерфейси" sy_attr_code="AND-534196" sy_value_code="VLD-5578587">1 x HDMI 2.1</param>
-            <param name="Інтерфейси" sy_attr_code="AND-534196" sy_value_code="VLD-4998022">1 x RJ-45</param>
-            <param name="Інтерфейси" sy_attr_code="AND-534196" sy_value_code="VLD-4998019">Card Reader</param>
-            <param name="Інтерфейси" sy_attr_code="AND-534196" sy_value_code="VLD-4997986">3.5 mm Mini-Jack</param>
-            <param name="Бездротові технології" sy_attr_code="AND-534260" sy_value_code="VLD-5002881">Bluetooth</param>
-            <param name="Бездротові технології" sy_attr_code="AND-534260" sy_value_code="VLD-5002882">Wi-Fi</param>
-            <param name="Матеріал корпусу" sy_attr_code="AND-534263" sy_value_code="VLD-5435265">Магнієво-алюмінієвий сплав</param>
-            <param name="Колір" sy_attr_code="AND-534264" sy_value_code="VLD-5003615">Чорний</param>
-            <param name="Частота процесора" sy_attr_code="AND-534277" sy_value_code="VLD-5319563">2.1 - 5.5 Ггц</param>
-            <param name="Кількість ядер процесора" sy_attr_code="AND-534868" sy_value_code="VLD-5031056">24</param>
-            <param name="Кількість потоків" sy_attr_code="AND-534869" sy_value_code="VLD-5031068">24</param>
-            <param name="Об'єм SSD" sy_attr_code="AND-534870">6000</param>
-            <param name="Кодова назва процесора" sy_attr_code="AND-535396">Arrow Lake-HX</param>
-        </offer>
-    </offers>
 </yml_catalog>
