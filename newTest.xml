@@ -291,7 +291,7 @@
                     ]]>
                 </description_ru>
 
-                <!--All attributes for the Laptop-->
+                <!--All attributes for the Monitors-->
                 <param name="Вага" sy_attr_code="AND-00001">6.99</param>
                 <param name="Форма екрану" sy_attr_code="AND-00070" sy_value_code="VLD-23321">Вигнутий</param>
                 <param name="Розміри" sy_attr_code="AND-00087">807 x 367 x 111 мм</param>
