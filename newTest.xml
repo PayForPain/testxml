@@ -147,6 +147,7 @@
                 <state>new</state>
                 <stock_quantity>1</stock_quantity>
                 <picture>https://i.dell.com/assetlink/img/en/tablet-dell-pro-rugged-ra02260-bk-gallery-1-dl1frq4-large.png</picture>
+                <!--I added .psd format to test what will happen after in our system-->
                 <picture>https://i.dell.com/is/image/DellContent//content/dam/ss2/product-images/dell-client-products/tablets/dell-pro-rugged-tablet/ra02260/mg/tablet-dell-pro-rugged-ra02260-bk-gallery-2.psd</picture>
                 <picture>https://i.dell.com/is/image/DellContent//content/dam/ss2/product-images/dell-client-products/tablets/dell-pro-rugged-tablet/ra02260/mg/tablet-dell-pro-rugged-ra02260-bk-gallery-3.psd</picture>
                 <picture>https://i.dell.com/is/image/DellContent//content/dam/ss2/product-images/dell-client-products/tablets/dell-pro-rugged-tablet/ra02260/mg/tablet-dell-pro-rugged-ra02260-bk-gallery-4.psd</picture>
@@ -186,7 +187,7 @@
                     ]]>
                 </description_ru>
 
-                <!--All attributes for the Laptop-->
+                <!--All attributes for the Tablet-->
                 <param name="Вага" sy_attr_code="AND-00001">1.31</param>
                 <param name="Ємність акумулятора, мА·ч" sy_attr_code="AND-00007">4457</param>
                 <param name="Сумісні карти пам'яті" sy_attr_code="AND-00011" sy_value_code="VLD-24687">microSD</param>
@@ -220,7 +221,7 @@
                 <param name="Роздільна здатність екрану" sy_attr_code="AND-533619" sy_value_code="VLD-4963934">1920 x 1200</param>
                 <param name="PPI (Щільність пікселів)" sy_attr_code="AND-533620" sy_value_code="VLD-4963993">188</param>
                 <param name="Частота процесора" sy_attr_code="AND-533621">2.1</param>
-                <param name="Матеріал корпусу" sy_attr_code="AND-533841" sy_value_code="VLD-5077043">Металл + Поликарбонат</param>
+                <param name="Матеріал корпусу" sy_attr_code="AND-533841" sy_value_code="VLD-5077043">Метал + Полікарбонат</param>
                 <param name="Колір передньої панелі" sy_attr_code="AND-533881" sy_value_code="VLD-4979453">Чорний</param>
                 <param name="Колір задньої панелі" sy_attr_code="AND-533885" sy_value_code="VLD-4980590">Чорний</param>
                 <param name="Вбудовані датчики" sy_attr_code="AND-533910" sy_value_code="VLD-4981670">Цифровий компас</param>
@@ -236,6 +237,103 @@
                 <param name="Інтерфейси та підключення" sy_attr_code="AND-533916" sy_value_code="VLD-5099927">Audio Jack 3.5 mm</param>
                 <param name="Виробник процесора" sy_attr_code="AND-535617" sy_value_code="VLD-5251669">Intel</param>
             </offer>
+
+             <!--All offers for the Monitors-->
+            <offer id="3" available="false">
+                <name_ua>Монітор 34" Acer Nitro XZ343CURXbmiiphuzx 2K VA 240 Гц</name_ua>
+                <name_ru>Монитор 34" Acer Nitro XZ343CURXbmiiphuzx 2K VA 240 Гц</name_ru>
+                <vendor>Acer</vendor>
+                <vendorCode>UM.CX3EE.X01</vendorCode>
+                <url>https://hotline.ua/ua/computer-monitory/acer-nitro-xz343curxbmiiphuzx-umcx3eex0</url>
+                <price>20999</price>
+                <currencyId>UAH</currencyId>
+                <categoryId>2</categoryId>
+                <state>new</state>
+                <stock_quantity>1</stock_quantity>
+                <picture>https://content1.rozetka.com.ua/goods/images/original/687170752.jpg</picture>
+                <picture>https://content.rozetka.com.ua/goods/images/original/687170753.jpg</picture>
+                <picture>https://content1.rozetka.com.ua/goods/images/original/687170754.jpg</picture>
+                <picture>https://content2.rozetka.com.ua/goods/images/original/687170755.jpg</picture>
+                <picture>https://content2.rozetka.com.ua/goods/images/original/687170756.jpg</picture>
+                <picture>https://content1.rozetka.com.ua/goods/images/original/687170757.jpg</picture>
+                <picture>https://content2.rozetka.com.ua/goods/images/original/687170758.jpg</picture>
+                <picture>https://content1.rozetka.com.ua/goods/images/original/687170759.jpg</picture>
+
+                <!--Main codes related to Synthetic-->
+                <sy_type>PTD-00034</sy_type>
+                <sy_warranty>12</sy_warranty>
+
+                <!--Description in Ukrainian-->
+                <description_ua>
+                    <![CDATA[
+                        <p><strong>Поглинаючий ігровий досвід нового рівня</strong></p>
+                        <p>Ігровий монітор Acer Nitro XZ343CURXbmiiphuzx із діагоналлю 34 дюйми та надшироким форматом 21:9 створений для того, щоб повністю занурити вас у віртуальні світи. Вигнута VA-матриця з радіусом кривизни 1500R та роздільною здатністю 3440 x 1440 забезпечує приголомшливу деталізацію, широке поле зору та неймовірний комфорт як під час динамічних баталій, так і під час виконання робочих завдань.</p>
+                        <p></p>
+                        <p><strong>Плавність і чіткість у кожній деталі</strong></p>
+                        <p>Завдяки рекордній частоті оновлення 240 Гц та мінімальному часу відгуку 1 мс (GTG), монітор гарантує максимальну плавність динамічних сцен без розривів кадрів чи розмиття зображення. Підтримка технології AMD FreeSync Premium і сертифікація DisplayHDR 400 роблять картинку максимально реалістичною, глибокою та насиченою, розкриваючи всі нюанси навіть у найтемніших епізодах гри.</p>
+                        <p></p>
+                        <p><strong>Сучасні інтерфейси підключення та ергономіка</strong></p>
+                        <p>Модель оснащена вражаючим набором роз'ємів, зокрема двома портами HDMI 2.1, DisplayPort 1.4, портом USB Type-C з передачею відеосигналу, а також вбудованим USB-хабом для зручного підключення периферії. Ергономічна підставка з регулюванням висоти, нахилу та підтримка кріплення VESA дозволяють ідеально налаштувати робоче місце під себе, а вбудовані стереодинаміки потужністю 2 x 2 Вт позбавляють необхідності купувати окрему акустику.</p>
+                    ]]>
+                </description_ua>
+        
+                <!--Description in Russian-->
+                <description_ru>
+                    <![CDATA[
+                        <p><strong>Погружение в игровой процесс нового уровня</strong></p>
+                        <p>Игровой монитор Acer Nitro XZ343CURXbmiiphuzx с диагональю 34 дюйма и сверхшироким форматом 21:9 создан для того, чтобы полностью вовлечь вас в виртуальные миры. Изогнутая VA-матрица с радиусом кривизны 1500R и разрешением 3440 x 1440 обеспечивает потрясающую детализацию, широкое поле зрения и невероятный комфорт как во время динамичных сражений, так и при выполнении рабочих задач.</p>
+                        <p></p>
+                        <p><strong>Плавность и детализация в каждой секунде</strong></p>
+                        <p>Благодаря рекордной частоте обновления 240 Гц и минимальному времени отклика 1 мс (GTG), монитор гарантирует максимальную плавность динамичных сцен без разрывов кадров и размытия движения. Поддержка технологии AMD FreeSync Premium и сертификация DisplayHDR 400 делают картинку максимально реалистичной, глубокой и насыщенной, открывая все детали даже в самых темных участках сцены.</p>
+                        <p></p>
+                        <p><strong>Современные технологии подключения и комфорт</strong></p>
+                        <p>Модель оснащена впечатляющим набором интерфейсов, включая два порта HDMI 2.1, DisplayPort 1.4, порт USB Type-C с поддержкой передачи сигнала, а также встроенный USB-хаб для подключения периферии. Эргономичная подставка с регулировкой по высоте, наклона и поддержка крепления VESA позволяют легко настроить рабочее место под себя, а встроенные стереодинамики мощностью 2 x 2 Вт избавят от необходимости подключения внешней акустики.</p>
+                    ]]>
+                </description_ru>
+
+                <!--All attributes for the Laptop-->
+                <param name="Вага" sy_attr_code="AND-00001">6.99</param>
+                <param name="Форма екрану" sy_attr_code="AND-00070" sy_value_code="VLD-23321">Вигнутий</param>
+                <param name="Розміри" sy_attr_code="AND-00087">807 x 367 x 111 мм</param>
+                <param name="Контрастність динамічна" sy_attr_code="AND-03126" sy_value_code="VLD-68588">100 000 000:1</param>
+                <param name="Контрастність статична" sy_attr_code="AND-03127" sy_value_code="VLD-64711">3000:1</param>
+                <param name="Розміри з підставкою" sy_attr_code="AND-03267">807 x 453–583 x 269 мм</param>
+                <param name="Роздільна здатність матриці" sy_attr_code="AND-03273" sy_value_code="VLD-64706">2K</param>
+                <param name="Співвідношення сторін" sy_attr_code="AND-03311" sy_value_code="VLD-25692">21:9</param>
+                <param name="Ігрові функції" sy_attr_code="AND-03329" sy_value_code="VLD-69027">AMD FreeSync Premium</param>
+                <param name="Технології поліпшення зображення" sy_attr_code="AND-03330" sy_value_code="VLD-68636">HDR</param>
+                <param name="Технології поліпшення зображення" sy_attr_code="AND-03330" sy_value_code="VLD-68767">Flicker-Free</param>
+                <param name="Технології поліпшення зображення" sy_attr_code="AND-03330" sy_value_code="VLD-68617">Low Blue Light</param>
+                <param name="VESA" sy_attr_code="AND-03397" sy_value_code="VLD-76199">100 x 100 мм</param>
+                <param name="Кількість кольорів екрану" sy_attr_code="AND-04150" sy_value_code="VLD-27901">1.07 млрд</param>
+                <param name="Призначення" sy_attr_code="AND-04160" sy_value_code="VLD-27876">Ігрові</param>
+                <param name="Яскравість дисплея" sy_attr_code="AND-04214" sy_value_code="VLD-83662">400</param>
+                <param name="Час відгуку" sy_attr_code="AND-04215" sy_value_code="VLD-81235">1</param>
+                <param name="Кут огляду по горизонталі" sy_attr_code="AND-04216" sy_value_code="VLD-81116">178</param>
+                <param name="Кут огляду по вертикалі" sy_attr_code="AND-04217" sy_value_code="VLD-81117">178</param>
+                <param name="Споживча потужність (в режимі очікування)" sy_attr_code="AND-04219">0.5</param>
+                <param name="Максимальна частота оновлення" sy_attr_code="AND-04232" sy_value_code="VLD-83924">240</param>
+                <param name="Поверхня екрану" sy_attr_code="AND-04524" sy_value_code="VLD-65070">Матова</param>
+                <param name="Потужність динаміків" sy_attr_code="AND-04553">2 x 2 Вт</param>
+                <param name="Тип підсвічування" sy_attr_code="AND-04961" sy_value_code="VLD-68579">WLED (світлодіодне підсвічування)</param>
+                <param name="Функції та можливості" sy_attr_code="AND-435153" sy_value_code="VLD-68865">Кріплення на стіну VESA</param>
+                <param name="Функції та можливості" sy_attr_code="AND-435153" sy_value_code="VLD-68866">Регулювання нахилу</param>
+                <param name="Функції та можливості" sy_attr_code="AND-435153" sy_value_code="VLD-68867">Вбудовані колонки</param>
+                <param name="Функції та можливості" sy_attr_code="AND-435153" sy_value_code="VLD-68868">Вбудований USB-хаб</param>
+                <param name="Функції та можливості" sy_attr_code="AND-435153" sy_value_code="VLD-68870">Регулювання по висоті</param>
+                <param name="Глибина кольору" sy_attr_code="AND-436989" sy_value_code="VLD-4850054">8 біт + FRC</param>
+                <param name="Кривизна екрана" sy_attr_code="AND-513592" sy_value_code="VLD-77091">1500R</param>
+                <param name="sRGB" sy_attr_code="AND-533913" sy_value_code="VLD-4984790">99</param>
+                <param name="Діагональ екрану" sy_attr_code="AND-535548" sy_value_code="VLD-5155448">34</param>
+                <param name="Роздільна здатність екрану" sy_attr_code="AND-535556" sy_value_code="VLD-5155514">3440 х 1440</param>
+                <param name="PPI (Щільність пікселів)" sy_attr_code="AND-535557" sy_value_code="VLD-5155538">109</param>
+                <param name="Тип матриці" sy_attr_code="AND-535558" sy_value_code="VLD-5155565">VA</param>
+                <param name="Інтерфейси та підключення" sy_attr_code="AND-535575" sy_value_code="VLD-5165898">2 x HDMI 2.1</param>
+                <param name="Інтерфейси та підключення" sy_attr_code="AND-535575" sy_value_code="VLD-5459087">1 х DisplayPort 1.4</param>
+                <param name="Інтерфейси та підключення" sy_attr_code="AND-535575" sy_value_code="VLD-5459444">1 х USB Type-C</param>
+                <param name="Інтерфейси та підключення" sy_attr_code="AND-535575" sy_value_code="VLD-5165903">2 x USB 3.2 Type-A</param>
+                <param name="Інтерфейси та підключення" sy_attr_code="AND-535575" sy_value_code="VLD-5165866">3.5 mm Mini-Jack</param>
+                <param name="Колір корпусу" sy_attr_code="AND-535576" sy_value_code="VLD-5165907">Чорний</param>
         </offers>
     </shop>
 </yml_catalog>
