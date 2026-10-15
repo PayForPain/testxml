@@ -7,9 +7,9 @@
     
         <!--All information about the Currencies-->
         <!--Using <curencies> tag instead of <currencies> tag-->
-        <currencies>
+        <curencies>
           <currency id="UAH" rate="1"/>
-        </currencies>
+        </curencies>
     
         <!--All information about the Categories-->
         <categories>
