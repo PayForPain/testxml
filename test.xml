@@ -42,6 +42,7 @@
                 <picture>https://mzimg.com/big/a1/hz5cw38jma1.jpg</picture>
         
                 <!--Main codes related to Synthetic-->
+                <!--Turn off sy_type for the offer id 1-->
                 <!--<sy_type>PTD-00103</sy_type>-->
                 <sy_warranty>12</sy_warranty>
 
