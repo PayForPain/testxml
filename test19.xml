@@ -7,14 +7,15 @@
     
         <!--All information about the Currencies-->
         <currencies>
-          <currency <!--id="UAH"--> rate="1"/>
+            <!--without id attribute-->
+            <currency <!--id="UAH"--> rate="1"/>
         </currencies>
     
         <!--All information about the Categories-->
         <categories>
-          <category id="1" sy_code="C320580">Ноутбуки</category>
-          <category id="2" sy_code="C644049">Монітори</category>
-          <category id="3" sy_code="C441077">Планшети</category>
+            <category id="1" sy_code="C320580">Ноутбуки</category>
+            <category id="2" sy_code="C644049">Монітори</category>
+            <category id="3" sy_code="C441077">Планшети</category>
         </categories>
     
         <!--All information about the Offers-->
