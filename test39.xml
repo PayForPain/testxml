@@ -22,8 +22,8 @@
         
             <!--All offers for the Laptops-->
             <offer id="1" available="false">
-                <!--<name_ua> tag exceeds 500 symbols limits (using 501 symbols)-->
-                <name_ua>Ноутбук 18" MSI Titan 18 HX AI (A2XWJG-614US) Gaming | Intel Core Ultra 9 285HX | RAM 64GB | SSD 6TB | GeForce RTX 5090 | Win11 | Магнієво-алюмінієвий корпус | (UKR) Ноутбук 18" MSI Titan 18 HX AI (A2XWJG-614US) Gaming | Intel Core Ultra 9 285HX | RAM 64GB | SSD 6TB | GeForce RTX 5090 | Win11 | Магнієво-алюмінієвий корпус | (UKR) Ноутбук 18" MSI Titan 18 HX AI (A2XWJG-614US) Gaming | Intel Core Ultra 9 285HX | RAM 64GB | SSD 6TB | GeForce RTX 5090 | Win11 | Магнієво-алюмінієвий корпус | (UKR)</name_ua>
+                <!--<name_ua> tag exceeds 500 symbols limits-->
+                <name_ua>Ноутбук 18" MSI Titan 18 HX AI (A2XWJG-614US) Gaming | Intel Core Ultra 9 285HX | RAM 64GB | SSD 6TB | GeForce RTX 5090 | Win11 | Магнієво-алюмінієвий корпус | (UKR) Ноутбук 18" MSI Titan 18 HX AI (A2XWJG-614US) Gaming | Intel Core Ultra 9 285HX | RAM 64GB | SSD 6TB | GeForce RTX 5090 | Win11 | Магнієво-алюмінієвий корпус | (UKR) Ноутбук 18" MSI Titan 18 HX AI (A2XWJG-614US) Gaming | Intel Core Ultra 9 285HX | RAM 64GB | SSD 6TB | GeForce RTX 5090 | Win11 | Магнієво-алюмінієвий корпус | (UKR)Ноутбук 18" MSI Titan 18 HX AI (A2XWJG-614US) Gaming | Intel Core Ultra 9 285HX | RAM 64GB | SSD 6TB | GeForce RTX 5090 | Win11 | Магнієво-алюмінієвий корпус | (UKR) Ноутбук 18" MSI Titan 18 HX AI (A2XWJG-614US) Gaming | Intel Core Ultra 9 285HX | RAM 64GB | SSD 6TB | GeForce RTX 5090 | Win11 | Магнієво-алюмінієвий корпус | (UKR) Ноутбук 18" MSI Titan 18 HX AI (A2XWJG-614US) Gaming | Intel Core Ultra 9 285HX | RAM 64GB | SSD 6TB | GeForce RTX 5090 | Win11 | Магнієво-алюмінієвий корпус | (UKR)</name_ua>
                 <name_ru>Ноутбук 18" MSI Titan 18 HX AI (A2XWJG-614US) Gaming | Intel Core Ultra 9 285HX | RAM 64GB | SSD 6TB | GeForce RTX 5090 | Win11 | Магниево-алюминиевый корпус | (UKR)</name_ru>
                 <vendor>MSI</vendor>
                 <vendorCode>A2XWJG-614US</vendorCode>
