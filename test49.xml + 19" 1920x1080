@@ -1,0 +1,83 @@
+<yml_catalog xmlns:sy="http://base.synthetic.ua/ns/1.0" date="2026-10-05 9:00">
+    <shop>
+    <!--Main information about the Shop-->
+        <name>Shop Name</name>
+        <company>Shop Company Name</company>
+        <url>https://github.com/PayForPain/testxml/</url>
+    
+        <!--All information about the Currencies-->
+        <currencies>
+          <currency id="UAH" rate="1"/>
+        </currencies>
+    
+        <!--All information about the Categories-->
+        <categories>
+          <category id="1">Ноутбуки</category>
+        </categories>
+    
+        <!--All information about the Offers-->
+        <offers>
+        
+            <!--All offers for the Laptops-->
+            <offer id="1" available="false">
+                <name_ua>Ноутбук 18" MSI Titan 18 HX AI (A2XWJG-614US) Gaming | Intel Core Ultra 9 285HX | RAM 64GB | SSD 6TB | GeForce RTX 5090 | Win11 | Магнієво-алюмінієвий корпус | (UKR)</name_ua>
+                <name_ru>Ноутбук 18" MSI Titan 18 HX AI (A2XWJG-614US) Gaming | Intel Core Ultra 9 285HX | RAM 64GB | SSD 6TB | GeForce RTX 5090 | Win11 | Магниево-алюминиевый корпус | (UKR)</name_ru>
+                <vendor>MSI</vendor>
+                <vendorCode>A2XWJG-614US</vendorCode>
+                <url>https://ua.msi.com/Laptop/Titan-18-HX-AI-A2XWX/</url>
+                <price>264899</price>
+                <currencyId>UAH</currencyId>
+                <categoryId>1</categoryId>
+                <state>new</state>
+                <stock_quantity>1</stock_quantity>
+                <picture>https://s.ek.ua/jpg_zoom1/2858493.jpg</picture>
+                <picture>https://mzimg.com/big/q1/hz5cw3xiqq1.jpg</picture>
+                <picture>https://mzimg.com/big/t1/hz5cw3v99t1.jpg</picture>
+                <picture>https://mzimg.com/big/x1/hz5cw2zzvx1.jpg</picture>
+                <picture>https://mzimg.com/big/i1/hz5cw2zcvi1.jpg</picture>
+                <picture>https://mzimg.com/big/t1/hz5cw3k8ct1.jpg</picture>
+                <picture>https://mzimg.com/big/x1/hz5cw3ir5x1.jpg</picture>
+                <picture>https://mzimg.com/big/a1/hz5cw38jma1.jpg</picture>
+        
+                <!--Main codes-->
+
+                <!--Description in Ukrainian-->
+                <description_ua>
+                    <![CDATA[
+                        <p><strong>Головні характеристики</strong></p>
+                        <p>18" (3840x2400) Mini-LED, 120 Гц / Intel Core Ultra 9 285HX (2.1 - 5.5 ГГц) (24/24 ядра) / RAM 64 ГБ / SSD 6 ТБ / NVIDIA GeForce RTX 5090, 24 ГБ / Wi-Fi 7 / Bluetooth 5.4 / Механічна клавіатура Cherry MX, RGB-підсвічування тачпада, система охолодження з паровою камерою / Українська розкладка / Windows 11 / 3.6 кг</p>
+                        <p></p>
+                        <p><strong>Неперевершена продуктивність на базі AI</strong></p>
+                        <p>Ноутбук оснащений новітнім процесором Intel Core Ultra 9 285HX із 24 ядрами та дискретною відеокартою NVIDIA GeForce RTX 5090 із 24 ГБ пам'яті GDDR7, що забезпечує максимальну потужність десктопного рівня для найскладніших обчислювальних завдань, сучасних ігор та роботи зі штучним інтелектом. Сукупна продуктивність системи досягає 270 Вт завдяки передовій технології OverBoost Ultra.</p>
+                        <p></p>
+                        <p><strong>Дисплей професійного рівня та інноваційне охолодження</strong></p>
+                        <p>Великий 18-дюймовий Mini-LED екран з роздільною здатністю 4K (3840x2400) і частотою оновлення 120 Гц гарантує неперевершену деталізацію, яскравість до 1000 ніт і стовідсоткове охоплення колірного простору DCI-P3 з сертифікацією VESA DisplayHDR 1000. Ефективне відведення тепла забезпечує інноваційна система охолодження з випарною камерою та окремою тепловою трубкою для високошвидкісних накопичувачів PCIe Gen5.</p>
+                        <p></p>
+                        <p><strong>Унікальна ергономіка та сучасні інтерфейси</strong></p>
+                        <p>Модель обладнана низькопрофільною механічною клавіатурою Cherry MX із поклавишним RGB-підсвічуванням та першим у світі безшовним сенсорним тачпадом із підсвічуванням Mystic Light. Набір інтерфейсів включає новітні порти Thunderbolt 5 із пропускною здатністю до 120 Гбіт/с, HDMI 2.1, високошвидкісний мережевий адаптер 2.5G та модуль Wi-Fi 7 для стабільного підключення без затримок.</p>
+                    ]]>
+                </description_ua>
+        
+                <!--Description in Russian-->
+                <description_ru>
+                    <![CDATA[
+                        <p><strong>Главные характеристики</strong></p>
+                        <p>18" (3840x2400) Mini-LED, 120 Гц / Intel Core Ultra 9 285HX (2.1 - 5.5 ГГц) (24/24 ядра) / RAM 64 ГБ / SSD 6 ТБ / NVIDIA GeForce RTX 5090, 24 ГБ / Wi-Fi 7 / Bluetooth 5.4 / Механическая клавиатура Cherry MX, RGB-подсветка тачпада, система охлаждения с испарительной камерой / Украинская раскладка / Windows 11 / 3.6 кг</p>
+                        <p></p>
+                        <p><strong>Непревзойденная производительность на базе AI</strong></p>
+                        <p>Ноутбук оснащен новейшим процессором Intel Core Ultra 9 285HX с 24 ядрами и дискретной видеокартой NVIDIA GeForce RTX 5090 с 24 ГБ памяти GDDR7, обеспечивая максимальную мощность десктопного уровня для самых сложных задач, современных игр и работы с искусственным интеллектом. Совокупная производительность системы достигает 270 Вт благодаря передовой технологии OverBoost Ultra.</p>
+                        <p></p>
+                        <p><strong>Дисплей профессионального уровня и инновационное охлаждение</strong></p>
+                        <p>Большой 18-дюймовый Mini-LED экран с разрешением 4K (3840x2400) и частотой обновления 120 Гц гарантирует непревзойденную детализацию, яркость до 1000 нит и стопроцентный охват цветового пространства DCI-P3 с сертификацией VESA DisplayHDR 1000. Эффективный отвод тепла обеспечивается инновационной системой охлаждения с испарительной камерой и отдельной тепловой трубкой для высокоскоростных накопителей PCIe Gen5.</p>
+                        <p></p>
+                        <p><strong>Уникальная эргономика и современные интерфейсы</strong></p>
+                        <p>Модель оборудована низкопрофильной механической клавиатурой Cherry MX с поклавишной RGB-подсветкой и первым в мире бесшовным сенсорным тачпадом с подсветкой Mystic Light. Набор интерфейсов включает новейшие порты Thunderbolt 5 с пропускной способностью до 120 Гбит/с, HDMI 2.1, высокоскоростной сетевой адаптер 2.5G и модуль Wi-Fi 7 для стабильного подключения без задержек.</p>
+                    ]]>
+                </description_ru>
+
+                <!--All attributes for the Laptop-->
+                <param name="Екран">19" 1920x1080</param>
+            </offer>
+        </offers>
+    </shop>
+</yml_catalog>
