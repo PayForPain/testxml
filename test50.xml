@@ -334,6 +334,7 @@
                 <param name="Інтерфейси та підключення" sy_attr_code="AND-535575" sy_value_code="VLD-5165903">2 x USB 3.2 Type-A</param>
                 <param name="Інтерфейси та підключення" sy_attr_code="AND-535575" sy_value_code="VLD-5165866">3.5 mm Mini-Jack</param>
                 <param name="Колір корпусу" sy_attr_code="AND-535576" sy_value_code="VLD-5165907">Чорний</param>
+            </offer>
         </offers>
     </shop>
 </yml_catalog>
